@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "ethers": "^6.14.0",
+    "ora": "^8.2.0"
+  }
+}
